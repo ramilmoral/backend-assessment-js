@@ -12,5 +12,13 @@
     "start": "wrangler dev --local",
     "deploy": "wrangler publish",
     "test": "vitest"
+  },
+  "dependencies": {
+    "@types/node": "^22.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "itty-router": "^5.0.18",
+    "moment": "^2.30.1",
+    "postgres": "^3.4.4"
   }
 }
