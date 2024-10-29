@@ -1,0 +1,7 @@
+PGHOST=ep-yellow-violet-a8iazcg7.eastus2.azure.neon.tech
+PGDATABASE=mindarc-db
+PGUSER=mindarc-db_owner
+PGPASSWORD=Pwbyuh2l1IcG
+ENDPOINT_ID=ep-yellow-violet-a8iazcg7
+API_KEY=dekap4kkbtxwzt02qg6sr5e4cmj3btp08c6ufzdo0wd4m4aiqzscdf1n7o61t043
+DATABASE_URL='postgresql://mindarc-db_owner:Pwbyuh2l1IcG@ep-yellow-violet-a8iazcg7.eastus2.azure.neon.tech/mindarc-db?sslmode=require'
